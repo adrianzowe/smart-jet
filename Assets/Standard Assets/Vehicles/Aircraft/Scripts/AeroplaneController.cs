@@ -111,9 +111,7 @@ namespace UnityStandardAssets.Vehicles.Aeroplane
 				(PitchAngle >= pitch["TooMuchDownside"] && RollAngle <= roll["TooMuchLeft"]) ||
 				(PitchAngle >= pitch["TooMuchDownside"] && RollAngle >= roll["TooMuchRight"]))
 				exit = force["Prestissimo"];
-			else if ((PitchAngle > pitch["TooMuchUpside"] && PitchAngle <= pitch["MediumUpside"] && RollAngle > roll["TooMuchLeft"] && RollAngle <= roll["MediumLeft"])||
-
-			)
+			else if ((PitchAngle > pitch["TooMuchUpside"] && PitchAngle <= pitch["MediumUpside"] && RollAngle > roll["TooMuchLeft"] && RollAngle <= roll["MediumLeft"]))
 				exit = force["Presto"];
 		}
 
