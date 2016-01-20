@@ -9,6 +9,11 @@
 >David Robles del Viso
 
 
+
+
+
+
+
 ## 1. Introducción  
 
 El presente documento corresponde a la memoria del trabajo de la asignatura Sistemas Inteligentes el cual detalla el estudio y desarrollo de un controlador difuso, en Unity 3D, para el control automático de vuelo de un avión.
