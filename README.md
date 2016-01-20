@@ -1,8 +1,8 @@
 # SMARTJET
 
-1. Introducción  
+## 1. Introducción  
 
-El presente documento corresponde a la memoria del trabajo de la asignatura Sistemas Inteligentes el cual detalla el estudio y desarrollo de un controlador difuso, en Unity 3D, para el control automático de vuelo de un avión.
+    El presente documento corresponde a la memoria del trabajo de la asignatura Sistemas Inteligentes el cual detalla el estudio y desarrollo de un controlador difuso, en Unity 3D, para el control automático de vuelo de un avión.
 
 Para la realización de este trabajo se ha dividido el desarrollo en dos fases. 
 La primera se centra en estudiar los principios básicos de vuelo, identificando las partes o módulos de una aeronave que se deberá manejar para lograr el objetivo.
