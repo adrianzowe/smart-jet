@@ -50,17 +50,17 @@ namespace UnityStandardAssets.Vehicles.Aeroplane
 
 		//mathematical variables
 		private double maxRoll = Math.PI/6;
-		private double mediumRoll = maxRoll/2;
-		private double lowRoll = mediumRoll/2;
+		private double mediumRoll = Math.PI/12;
+		private double lowRoll = Math.PI/24;
 		private double maxPitch = Math.PI/4;
-		private double mediumPitch = maxPitch/2;
-		private double lowPitch = mediumRoll/2;
+		private double mediumPitch = Math.PI/8;
+		private double lowPitch = Math.PI/16;
 
 		//Input values
 		private Dictionary<string, double> roll = new Dictionary<string, double>();           
 		private Dictionary<string, double> pitch = new Dictionary<string, double>();
 
-		//Output values
+		//output values
 		private Dictionary<string, double> force = new Dictionary<string, double>();
 		private Double exit;
 
